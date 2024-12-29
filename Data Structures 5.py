@@ -1,0 +1,10 @@
+fruits=['apple','banana','grapes','orange','cherry']
+print(fruits)
+my_list=[{"day":"tuesday","date":"10","month":"december","year":2024},{'car':'red',5:6}]
+print(my_list)
+tupl=(1,2,3,'hello')
+print(tupl)
+my_set={1,2,3,'hello'}
+print(my_set)
+my_dict={"day":"tuesday","date":"10","month":"december","year":2024}
+print(my_dict)

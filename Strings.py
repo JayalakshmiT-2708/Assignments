@@ -1,0 +1,12 @@
+A1=input('Enter a string:')
+A2=input('Enter a string:')
+A3='My String Operation Program'
+print(len(A1))
+print(A1,A2)
+print(A3[10:19])
+print(A3.replace("My","our"))
+print(A1.find('P'))
+print(A1==A2)
+A4=A3.lower()
+A5=A4.upper()
+print('Hash code of A5=',hash(A5))
