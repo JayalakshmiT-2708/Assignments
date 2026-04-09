@@ -11,4 +11,4 @@ Practice exercises covering core Python concepts.
 - JSON Handling
 
 ## Author
-Jayalakshmi T — learning AI/ML | Python
+Jayalakshmi T —  Aspiring AI/ML Engineer | Python Developer
